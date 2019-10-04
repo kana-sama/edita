@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/edita/static/js/main.57b20857.chunk.js",
+    "main.js.map": "/edita/static/js/main.57b20857.chunk.js.map",
+    "runtime-main.js": "/edita/static/js/runtime-main.a56c6e90.js",
+    "runtime-main.js.map": "/edita/static/js/runtime-main.a56c6e90.js.map",
+    "static/js/2.03a6523e.chunk.js": "/edita/static/js/2.03a6523e.chunk.js",
+    "static/js/2.03a6523e.chunk.js.map": "/edita/static/js/2.03a6523e.chunk.js.map",
+    "index.html": "/edita/index.html",
+    "precache-manifest.cf4bca650bdbcdb14a71563c8ecbde50.js": "/edita/precache-manifest.cf4bca650bdbcdb14a71563c8ecbde50.js",
+    "service-worker.js": "/edita/service-worker.js"
+  }
+}
