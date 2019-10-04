@@ -52,7 +52,7 @@ function App() {
   } | null>(null);
 
   React.useEffect(() => {
-    server.current = io("http://localhost:3001");
+    server.current = io("http://51.15.42.84:3001");
     server.current.on("init", setState);
   }, []);
 
